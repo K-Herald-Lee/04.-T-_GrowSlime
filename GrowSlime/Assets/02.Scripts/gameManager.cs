@@ -7,6 +7,10 @@ public class gameManager : MonoBehaviour
 
     public RuntimeAnimatorController[] levelAC;
     public int[] jellyPriceList;
+    public Sprite[] jellySpriteList;
+    public string[] jellyNameList;
+    public int[] jellyJelatinList;
+
     public void ChangeAC(Animator ani, int level)
     {
         ani.runtimeAnimatorController = levelAC[level-1];
