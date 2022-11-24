@@ -165,6 +165,8 @@ Library: lib_burst_generated
 --root-assembly=D:\21.GameDevelop\Projects\04.-T-_GrowSlime\GrowSlime\Temp\StagingArea\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
 --root-assembly=D:\21.GameDevelop\Projects\04.-T-_GrowSlime\GrowSlime\Temp\StagingArea\Data\Managed\Unity.Services.Core.Configuration.dll
 --root-assembly=D:\21.GameDevelop\Projects\04.-T-_GrowSlime\GrowSlime\Temp\StagingArea\Data\Managed\Unity.Subsystem.Registration.dll
+--root-assembly=D:\21.GameDevelop\Projects\04.-T-_GrowSlime\GrowSlime\Temp\StagingArea\Data\Managed\UnityEngine.Monetization.dll
+--root-assembly=D:\21.GameDevelop\Projects\04.-T-_GrowSlime\GrowSlime\Temp\StagingArea\Data\Managed\UnityEngine.Advertisements.dll
 --assembly-folder=D:\21.GameDevelop\Projects\04.-T-_GrowSlime\GrowSlime\Temp\StagingArea\Data\Managed\
 --pdb-search-paths=Temp/ManagedSymbols/
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
