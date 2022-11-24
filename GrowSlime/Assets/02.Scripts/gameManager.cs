@@ -10,6 +10,8 @@ public class gameManager : MonoBehaviour
     public Sprite[] jellySpriteList;
     public string[] jellyNameList;
     public int[] jellyJelatinList;
+    public int[] capPriceList;
+    public int[] prodPriceList;
 
     public void ChangeAC(Animator ani, int level)
     {
